@@ -1,0 +1,41 @@
+﻿id ;name;barcode;category;unit
+1;Muz (Yerli);470;Meyve;kg
+2;Mandalina;1206;Meyve;kg 
+3;Patates;1800;Sebze;kg 
+4;Soğan (Kuru);1900;Sebze;kg 
+5;İthal Muz;47;Meyve;kg 
+6;Domates;114;Sebze;kg 
+7;Hıyar;119;Sebze;kg 
+8;Elma (Starking);25;Meyve;kg 
+9;Portakal;2700;Meyve;kg 
+10;Kırmızı Biber;111;Sebze;kg
+11;Ceviz;5988;Kuruyemiş;kg
+12;Çekirdeksiz Karpuz;5039;Meyve;kg
+13;Karpuz;38;Meyve;kg
+14;Kavun;36;Meyve;kg
+15;Kabak;126;Sebze;kg
+16;Patlıcan Kemer;137;Sebze;kg
+17;Salkım Domates;514;Sebze;kg
+18;Dolma Biber;110;Sebze;kg
+19;Havuç;618;Sebze;kg
+20;Maydanoz;186;Sebze;adet
+21;Avakado;100;Meyve;adet
+22;Yer Fıstığı;311;Kuruyemiş;kg
+23;Limon;2127;Sebze;kg
+24;Sarımsak;501;Sebze;kg
+25;Şeftali;60;Meyve;kg
+26;Nektarin;85;Meyve;kg
+27;Fasulye Ayşe Kadın;101;Sebze;kg
+28;Ananas;82;Meyve;adet
+29;Armut Deveci;3;Meyve;kg
+30;Armut Santa Maria;4;Meyve;kg
+31;Elma Pink Lady;325;Meyve;kg
+32;Elma Gala;573;Meyve;kg
+33;Elma Granny;25;Meyve;kg
+34;Elma Starking;28;Meyve;kg
+35;Hindistan Cevizi;11;Meyve;adet
+36;Ispanak;120;Sebze;kg
+37;Roka;184;Sebze;adet
+38;Turp;166;Sebze;kg
+39;Üzüm Siyah;61;Meyve;kg
+40;Üzüm Çekirdeksiz;9812;Meyve;kg

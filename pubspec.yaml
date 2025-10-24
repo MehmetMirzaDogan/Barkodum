@@ -1,0 +1,69 @@
+name: barkodum
+description: "Barkodum - Barkod Yönetim Uygulaması"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  sqflite: ^2.3.0
+  path: ^1.9.0
+  path_provider: ^2.1.1
+  shared_preferences: ^2.2.3
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+  flutter_native_splash: ^2.3.10
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/data/products_migros.csv
+    - assets/data/products_bim.csv
+    - assets/data/products_sok.csv
+    - assets/data/products_a101.csv
+    - assets/logos/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icon/app_icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#000000"
+  adaptive_icon_foreground: "assets/icon/app_icon.png"
+  remove_alpha_ios: true
+  web:
+    generate: true
+    image_path: "assets/icon/app_icon.png"
+    background_color: "#000000"
+    theme_color: "#000000"
+  windows:
+    generate: true
+    image_path: "assets/icon/app_icon.png"
+    icon_size: 48
+  macos:
+    generate: true
+    image_path: "assets/icon/app_icon.png"
+
+flutter_native_splash:
+  color: "#000000"
+  image: assets/icon/app_icon.png
+  color_dark: "#000000"
+  image_dark: assets/icon/app_icon.png
+  android_12:
+    image: assets/icon/app_icon.png
+    icon_background_color: "#000000"
+    image_dark: assets/icon/app_icon.png
+    icon_background_color_dark: "#000000"
+  fullscreen: true
+  web: false

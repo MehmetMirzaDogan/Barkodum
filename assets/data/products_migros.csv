@@ -1,0 +1,71 @@
+﻿id;name;barcode;category;unit
+1;Muz (Yerli);470;Meyve;kg
+2;Mandalina;1206;Meyve;kg 
+3;Patates;3569;Sebze;kg 
+4;Soğan (Kuru);458;Sebze;kg 
+5;İthal Muz;47;Meyve;kg 
+6;Domates;114;Sebze;kg 
+7;Hıyar;119;Sebze;kg 
+8;Elma (Starking);25;Meyve;kg 
+9;Portakal;2700;Meyve;kg 
+10;Kırmızı Biber;111;Sebze;kg
+11;Ceviz;10;Kuruyemiş;kg
+12;Zencefil;163;Sebze;kg
+13;Pancar;509;Sebze;kg
+14;Kereviz;124;Sebze;kg
+15;Karnabahar;122;Sebze;kg
+16;Atom Göbek;1284;Sebze;adet
+17;Çarliston Biber;109;Sebze;kg
+18;Köy Biberi;773;Sebze;kg
+19;Reyhan;694;Sebze;adet
+20;Turp;367;Sebze;kg
+21;Kivi İthal;4655;Meyve;kg
+22;Yeşil Soğan;1252;Sebze;adet
+23;Gala Elma;425;Meyve;kg
+24;Greyfurt;10827;Meyve;Kg
+25;Tatlı Patates;1113;Sebze;kg
+26;Greyfurt Kan;84;Meyve;kg
+27;Roka;372;Sebze;adet
+28;Nane;373;Sebze;adet
+29;Dereotu;535;Sebze;adet
+30;Kıvırcık;1061;Sebze;adet
+31;Hindistan Cevizi;10;Meyve;adet
+32;Tere ;694;Sebze;adet
+33;Şalgam Turp;544;Sebze;kg
+34;Pembe Domates;2634;Meyve;kg
+35;Fesleğen;525;Sebze;adet
+36;Kabuklu Fıstık ;311;Kuruyemiş;kg
+37;Semizotu;5221;Sebze;adet
+38;Havuç;2957;Sebze;kg
+39;Ispanak;358;Sebze;adet
+40;Uzun Marul;379;Sebze;adet
+41;Mor Lahana;366;Sebze;kg
+42;Barbunya;194;Sebze;kg
+43;Fasulye Ayşe Kadın;101;Sebze;kg
+44;Golden Elma;309;Meyve;kg
+45;Mini Patates;139;Sebze;kg
+46;Yaş Zeytin;1992;Sebze;kg
+47;Kırmızı Soğan;195;Sebze;kg
+48;Mürdün Erik ;1292;Meyve;kg
+49;Kırmızı Elma;28;Meyve;kg
+50;Maydanoz;534;Sebze;adet
+51;Çeri Domates;290;Sebze;kg
+52;Paket Salatalık;1033;Sebze;adet
+53;Nar;53;Meyve;kg
+54;Kırmızı Üzüm;384;Meyve;kg
+55;Çekirdeksiz Üzüm;65;Meyve;kg
+56;Kuzukulağı;766;Sebze;adet
+57;Hurma;2491;Meyve;kg
+58;Kabak Dolmalık;755;Sebze;kg
+59;Kabak Süs Dekor;6902;Sebze;adet
+60;Cin Biber;824;Sebze;kg
+61;Acur;1070;Sebze;kg
+62;Kavun Kırkağaç;36;Meyve;kg
+63;Beyaz Lahana;127;Sebze;kg
+64;Brokoli;200;Sebze;kg
+65;Salkım Domates;514;Sebze;kg
+66;Ananas;7;Meyve;adet
+67;Avokado;100;Meyve;adet
+68;Mango;302;Meyve;adet
+69;Pepino Beyaz;1308;Meyve;kg
+70;Biber Jalapone Kırmızı;1525;Sebze;kg
