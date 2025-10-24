@@ -53,10 +53,6 @@ Kasiyerler için geliştirilmiş profesyonel barkod arama uygulaması.
 
 **Mehmet Mirza Doğan**
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
-
 ## 🔄 Versiyon Geçmişi
 
 ### v1.0.0 (2025-01-24)
