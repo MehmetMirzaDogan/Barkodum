@@ -47,14 +47,11 @@ Kasiyerler için geliştirilmiş profesyonel barkod arama uygulaması.
 - **SharedPreferences** - Ayar yönetimi
 - **Material Design 3** - Modern UI
 
-## 📸 Ekran Görüntüleri
 
-![Market Seçimi](flutter_01.png)
-![Ürün Arama](flutter_02.png)
 
 ## 👨‍💻 Geliştirici
 
-**Mustafa Mirzaoğlu**
+**Mehmet Mirza Doğan**
 
 ## 📄 Lisans
 
