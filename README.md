@@ -4,7 +4,7 @@ Kasiyerler için geliştirilmiş profesyonel barkod arama uygulaması.
 
 ## 📱 Özellikler
 
-### ✨ Ana Özellikler
+###  Ana Özellikler
 - 🏪 **4 Büyük Market Desteği:** Migros, BİM, ŞOK, A101
 - 🔍 **Akıllı Arama:** Türkçe karakter desteği ile gelişmiş arama
 - 📊 **Kategori Yönetimi:** Özelleştirilebilir ürün kategorileri
@@ -32,6 +32,13 @@ Kasiyerler için geliştirilmiş profesyonel barkod arama uygulaması.
 1. Xcode ile projeyi aç
 2. Geliştirici hesabınla imzala
 3. Cihazına yükle
+
+### iOS (Eğer ki Macos yoksa ve Iphone yüklemek isteyip Developer hesabınız yoksa)
+1. Bilgisayarınıza ve telefonunuza Altstore uygulamasını indiriniz
+2. iTunes uygulamasını indiriniz
+3. Yeni bir Apple hesabı oluşturunuz
+4. Altstore ve iTunes uygulamasına yeni hesabınızla girip Youtube üzerinden yardımcı kaynaklar ile indirdiğiniz .ipa dosyasını kurunuz
+5. Not: Haftada bir kez cihazınızı bilgisayara bağlayıp Altstore uygulaması üzerinden uygulamayı günceleştirmeniz gerekmektedir
 
 ## 🎯 Kullanım
 
