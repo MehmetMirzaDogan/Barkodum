@@ -33,7 +33,7 @@ Kasiyerler için geliştirilmiş profesyonel barkod arama uygulaması.
 2. Geliştirici hesabınla imzala
 3. Cihazına yükle
 
-### iOS (Eğer ki Macos yoksa ve Iphone yüklemek isteyip Developer hesabınız yoksa)
+### iOS (Eğer ki macOS yoksa ve Iphone yüklemek isteyip Developer hesabınız yoksa)
 1. Bilgisayarınıza ve telefonunuza Altstore uygulamasını indiriniz
 2. iTunes uygulamasını indiriniz
 3. Yeni bir Apple hesabı oluşturunuz
