@@ -45,7 +45,7 @@ Kasiyerler için geliştirilmiş profesyonel barkod arama uygulaması.
 1. **Market Seç:** İlk açılışta marketini seç
 2. **Ürün Ara:** Arama kutusuna ürün adı veya barkod gir
 3. **Kategori Filtrele:** Tab'lardan kategori seç
-4. **Favori Ekle:** Ürün kartındaki yıldıza tıkla
+4. **Favori Ekle:** Ürün kartındaki yıldıza basılı tut ve seçeneklerden favorine ekle
 
 ## 🛠️ Teknolojiler
 
